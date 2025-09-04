@@ -1,5 +1,12 @@
 # 📅 Changelog
 
+## v1.5.0 (04-07-2025)
+
+* Upgraded packages
+* Ui Improvement
+* Replaced Feather Icons with Phosphor and Tabler Icons
+* Bug Fixes
+
 ## v1.4.0 (11-12-2024)
 
 * Enhance JavaScript Code Structure&#x20;
