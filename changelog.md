@@ -1,5 +1,11 @@
 # 📅 Changelog
 
+## v1.5.1(04-12-2025)
+
+* UI improvements for better consistency and user experience.
+* Fixed various bugs across components and layouts.
+* General code cleanup and structure enhancement.
+
 ## v1.5.0 (04-07-2025)
 
 * Upgraded packages
